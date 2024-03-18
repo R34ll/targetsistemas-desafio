@@ -1,0 +1,7 @@
+1. Ligo o primeiro interruptor e espero 10 minutos.
+2. Desligo o primeiro interruptor e ligo o segundo interruptor.
+3. Vou à primeira sala e verifico se a lâmpada está quente; se sim, este é o primeiro interruptor.
+4. Vou à segunda sala e verifico se a lâmpada está acesa; se sim, este é o segundo interruptor.
+5. Vou à terceira sala e verifico se a lâmpada está fria; se sim, este é o terceiro interruptor.
+
+
